@@ -1,4 +1,4 @@
-package com.datastructure.practice.bigo;
+package com.datastructure.practice.bigO;
 
 import java.util.Arrays;
 
